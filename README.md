@@ -1,0 +1,2 @@
+# doclingwithollama
+Docking with Ollama
