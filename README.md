@@ -1,6 +1,6 @@
 # Docling With Ollama
 
-![Project Logo](images/doclingwithollama.png)
+![Project Logo](doclingwithollama.png)
 
 ## Introduction
 
