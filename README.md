@@ -61,7 +61,7 @@ To install **Docling With Ollama**, follow these steps:
 To run **Docling with Ollama**, execute the following command:
 
 ```bash
-streamlit app.py
+streamlit run app.py
 ```
 
 Open your browser and go to `http://localhost:8501` to see the tool in action, if it doesnt open automatically.
