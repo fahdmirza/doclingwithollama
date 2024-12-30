@@ -47,7 +47,13 @@ To install **Docling With Ollama**, follow these steps:
 5. **Install the dependencies**:
 
     ```bash
-    pip install -r requirements.txt
+    pip install torch 
+    pip install git+https://github.com/huggingface/transformers
+    
+    pip install llama-index-core llama-index-readers-docling llama-index-node-parser-docling llama-index-readers-file python-dotenv llama-index-llms-ollama llama-index-embeddings-huggingface llama-index-llms-huggingface-api
+    
+    pip install pdfplumber numpy streamlit 
+
     ```
 
 ## Running the Tool
