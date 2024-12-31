@@ -2,6 +2,11 @@
 
 ![Project Logo](doclingwithollama.png)
 
+## Installation Video
+
+[![Watch the video](https://img.youtube.com/vi/GMHazLUQBQM/hqdefault.jpg)](https://www.youtube.com/embed/GMHazLUQBQM)
+
+
 ## Introduction
 
 Welcome to **Docling with Ollama**! This tool is combines the best of both Docling for document parsing and Ollama for local models. It enables you to use Docling and Ollama for RAG over PDF files (or any other supported file format) with LlamaIndex. It provides you a nice clean Streamlit GUI to chat with your own documents locally.
